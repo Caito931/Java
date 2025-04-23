@@ -1,0 +1,10 @@
+URL: https://www.youtube.com/watch?v=xTtL8E4LzTQ&t=2127s&ab_channel=BroCode
+NAME: Java Full Course for free ☕ (2025)
+
+DAY 1
+#2 00:10:58 variables ❎
+#3 00:31:30 user input ⌨️
+#4 00:47:25 ⭐ mad libs game 📕
+#5 00:54:08 arithmetic 🧮
+#6 01:02:29 ⭐ shopping cart program 🛒
+#7 01:09:00 if statements 🤔
