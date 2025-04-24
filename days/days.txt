@@ -8,3 +8,10 @@ DAY 1
 #5 00:54:08 arithmetic 🧮
 #6 01:02:29 ⭐ shopping cart program 🛒
 #7 01:09:00 if statements 🤔
+
+DAY 2
+#8 01:22:28 random numbers 🔀
+#9 01:27:28 math class 📐
+#10 01:42:37 printf 🖨️
+
+DAY 3
